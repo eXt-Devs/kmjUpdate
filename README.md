@@ -1,0 +1,2 @@
+# kmjUpdate
+UPDATE_APP_CHANNEL
