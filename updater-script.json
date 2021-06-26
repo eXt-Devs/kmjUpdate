@@ -1,16 +1,11 @@
 {
   "updateInfo":[
-    
-    {
+   
+      {
       
-      "type": "DEBUG",
-      "mantainer": "Maynard",
-      "versionCode": 1,
-      "versionName": "v1.0.0b-12",
-      "signed_apk_name": "Maynard-DEBUG_RELEASE_v1.0.0-b12.apk"
+          "versionCode": 1,
+          "versionName": "v1.0.0b-12",
     
-    }
-  
-  ]
-  
+      }
+   ]
 }
